@@ -190,3 +190,5 @@ protocols:
     os_repo: "https://github.com/bulledecrystal/bulledecrystal.github.io"
     os_rcs_type: "git"
     os_src: "git@github.com:bulledecrystal/bulledecrystal.github.io.git"
+
+theme: jekyll-theme-tactile
